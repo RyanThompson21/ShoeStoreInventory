@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="create_button">Create new account</string>
+    <string name="login_button">Login</string>
+    <string name="email_label">Email:</string>
+    <string name="password_label">Password:</string>
+    <string name="shoestore_label">Shoe Store</string>
+    <string name="welcome_text1">Welcome to the Shoe Store!</string>
+    <string name="welcome_text2">Click the Next button for instructions on how to use the app.</string>
+    <string name="next_button_text">Next</string>
+    <string name="instructions_text1">The shoe list displays the name, size, company, and description of each shoe.
+    To add another shoe to the list:\n\n 1.) Click the plus button at the bottom right of the shoe list screen\n\n
+    2.) Fill out the form (description is optional)\n\n 3.) Click save</string>
+    <string name="instructions_text2">Click the Next button to continue to the shoe list</string>
+    <string name="shoe_name">Name:</string>
+    <string name="shoe_name_edit">SHOE NAME EDIT</string>
+    <string name="company_text">Company:</string>
+    <string name="size_edit_hint">Size</string>
+    <string name="size_text">Size:</string>
+    <string name="description_text">Description:</string>
+    <string name="description_edit_hint">Description</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">save</string>
+    <string name="company_edit_hint">Company</string>
+    <string name="name_edit_hint">Name</string>
+    <string name="logout_button">Logout</string>
+</resources>
